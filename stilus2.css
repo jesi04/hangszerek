@@ -1,0 +1,25 @@
+body{
+    background-color: #E4D7B5;
+    color: #7A2206;
+}
+
+a:link{
+    color: #2F2F2F;
+}
+h1{
+    text-align: center;
+}
+div{
+    text-align: center;
+}
+table{
+    width: 80%;
+    float: center;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+table, th, td {
+    border: 1px solid black;
+  }

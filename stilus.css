@@ -1,0 +1,21 @@
+body{
+    background-color: #E4D7B5;
+    color: #7A2206;
+}
+
+a:link{
+    color: #2F2F2F;
+}
+hr{
+    width: 80%;
+    height: 3px;
+}
+.zenekar{
+    float: right;
+    border: 1px solid black;
+}
+.vissza{
+    width: 80px;
+    height: auto;
+    float: right;
+}
